@@ -1,8 +1,6 @@
 
 _
 /src/controlflowstatements/switchStatements.java,f/2/f2e83f2c1dda01933da6616dc4dd13587283381a
-_
-/src/controlflowstatements/NumberPalindrome.java,2/8/2822e6638f06299c282f2d2eadc65af4b3fb4756
 [
 +src/controlflowstatements/NumberInWord.java,7/0/703afe06477972fd3fd49969249b8fd8be76152e
 [
@@ -13,7 +11,9 @@ Z
 ,src/controlflowstatements/ForStatements.java,c/a/ca514838dadb971350155429fa504a066d89aa4b
 _
 /src/keywordsandexpressions/EqualSumChecker.java,5/4/54fbc3f41f0f65e0b3fe536ac2cb433893d9287a
-Y
-)src/controlflowstatements/Palindrome.java,0/1/01c0582fc048b706218d0a3428f8b9d548def275
 `
 0src/controlflowstatements/DigitSumChallenge.java,d/1/d175d96c841d78ef621b6a03fc5630869f21100f
+Y
+)src/controlflowstatements/Palindrome.java,0/1/01c0582fc048b706218d0a3428f8b9d548def275
+_
+/src/controlflowstatements/NumberPalindrome.java,2/8/2822e6638f06299c282f2d2eadc65af4b3fb4756
