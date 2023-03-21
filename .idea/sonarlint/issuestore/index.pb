@@ -39,8 +39,6 @@ _
 /src/keywordsandexpressions/EqualityPrinter.java,0/a/0a73381536988e6b1882ca6d287fe521418e3efa
 b
 2src/keywordsandexpressions/LeapYearCalculator.java,f/5/f5e17522cd0df457ce5d6f38390afc910d768e61
-W
-'src/controlflowstatements/Sum3And5.java,4/a/4ad917fe360a127b1c87cde18e7fc7f3415d5ebd
 _
 /src/controlflowstatements/switchStatements.java,f/2/f2e83f2c1dda01933da6616dc4dd13587283381a
 [
@@ -59,3 +57,7 @@ Y
 )src/controlflowstatements/Palindrome.java,0/1/01c0582fc048b706218d0a3428f8b9d548def275
 _
 /src/controlflowstatements/NumberPalindrome.java,2/8/2822e6638f06299c282f2d2eadc65af4b3fb4756
+Z
+*src/controlflowstatements/SumOddRange.java,6/5/6519f85134e11f47c2332b468c64abfe96fb62fe
+Y
+)src/controlflowstatements/WhileAndDo.java,2/3/23a4c0c9f39d65797ea51f6b8e08323cfa574d3a
