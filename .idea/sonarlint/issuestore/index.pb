@@ -63,3 +63,17 @@ W
 'src/controlflowstatements/Sum3And5.java,4/a/4ad917fe360a127b1c87cde18e7fc7f3415d5ebd
 [
 +src/controlflowstatements/EvenDigitSum.java,0/2/02ed1a216cb18819e5ea2febf2d1f9289f306278
+\
+,src/controlflowstatements/FactorPrinter.java,8/c/8c17aeccf91292e52e1204d81ddf7be83c479c60
+_
+/src/controlflowstatements/LastDigitChecker.java,8/1/81565ca72e9bb1c3c4998fe1b961b99f45b5501e
+Z
+*src/controlflowstatements/SharedDigit.java,5/d/5dabe1be320fa4f9469676ee8d2b606d65855fcd
+d
+4src/controlflowstatements/GreatestCommonDivisor.java,4/b/4b6a7e6ab7d72d7b4c4f1566d3a65f860221edff
+\
+,src/controlflowstatements/PerfectNumber.java,5/0/50ee050c4766e781238ef5eee58fbdbe8e82b4a8
+_
+/src/controlflowstatements/NumberPalindrome.java,2/8/2822e6638f06299c282f2d2eadc65af4b3fb4756
+_
+/src/controlflowstatements/switchStatements.java,f/2/f2e83f2c1dda01933da6616dc4dd13587283381a
