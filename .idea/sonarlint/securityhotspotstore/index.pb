@@ -1,6 +1,4 @@
 
-_
-/src/controlflowstatements/switchStatements.java,f/2/f2e83f2c1dda01933da6616dc4dd13587283381a
 [
 +src/controlflowstatements/NumberInWord.java,7/0/703afe06477972fd3fd49969249b8fd8be76152e
 [
@@ -14,10 +12,14 @@ _
 `
 0src/controlflowstatements/DigitSumChallenge.java,d/1/d175d96c841d78ef621b6a03fc5630869f21100f
 Y
+)src/controlflowstatements/WhileAndDo.java,2/3/23a4c0c9f39d65797ea51f6b8e08323cfa574d3a
+Y
 )src/controlflowstatements/Palindrome.java,0/1/01c0582fc048b706218d0a3428f8b9d548def275
-_
-/src/controlflowstatements/NumberPalindrome.java,2/8/2822e6638f06299c282f2d2eadc65af4b3fb4756
+`
+0src/controlflowstatements/FirstLastDigitSum.java,0/8/0846fb1d4516698bb5a5297ae6ed8e43d334b441
 Z
 *src/controlflowstatements/SumOddRange.java,6/5/6519f85134e11f47c2332b468c64abfe96fb62fe
-Y
-)src/controlflowstatements/WhileAndDo.java,2/3/23a4c0c9f39d65797ea51f6b8e08323cfa574d3a
+W
+'src/controlflowstatements/Sum3And5.java,4/a/4ad917fe360a127b1c87cde18e7fc7f3415d5ebd
+[
++src/controlflowstatements/EvenDigitSum.java,0/2/02ed1a216cb18819e5ea2febf2d1f9289f306278
