@@ -6,12 +6,10 @@ public class MinMaxChallenge {
 
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
-        int min = Integer.MAX_VALUE;
-        int max = Integer.MIN_VALUE;
-        int count = 0;
-
-        try {
+        try (Scanner scanner = new Scanner(System.in)) {
+            int min = Integer.MAX_VALUE;
+            int max = Integer.MIN_VALUE;
+            int count = 0;
             while (true) {
                 System.out.println("Enter a number or enter a non-integer character to exit:");
                 if (scanner.hasNextInt()) {
@@ -35,8 +33,6 @@ public class MinMaxChallenge {
                     break;
                 }
             }
-        } finally {
-            scanner.close();
         }
     }
 }
