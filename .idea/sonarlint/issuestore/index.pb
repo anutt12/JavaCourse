@@ -49,8 +49,6 @@ Z
 ,src/controlflowstatements/ForStatements.java,c/a/ca514838dadb971350155429fa504a066d89aa4b
 _
 /src/keywordsandexpressions/EqualSumChecker.java,5/4/54fbc3f41f0f65e0b3fe536ac2cb433893d9287a
-`
-0src/controlflowstatements/DigitSumChallenge.java,d/1/d175d96c841d78ef621b6a03fc5630869f21100f
 Y
 )src/controlflowstatements/WhileAndDo.java,2/3/23a4c0c9f39d65797ea51f6b8e08323cfa574d3a
 Y
