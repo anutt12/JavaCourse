@@ -77,3 +77,5 @@ _
 /src/controlflowstatements/switchStatements.java,f/2/f2e83f2c1dda01933da6616dc4dd13587283381a
 \
 ,src/controlflowstatements/NumberToWords.java,6/4/641e609d3f99f056c6715094b286719b7f52fa53
+`
+0src/controlflowstatements/DigitSumChallenge.java,d/1/d175d96c841d78ef621b6a03fc5630869f21100f

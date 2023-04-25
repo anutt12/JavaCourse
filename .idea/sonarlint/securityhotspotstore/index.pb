@@ -37,3 +37,5 @@ d
 4src/controlflowstatements/GreatestCommonDivisor.java,4/b/4b6a7e6ab7d72d7b4c4f1566d3a65f860221edff
 \
 ,src/controlflowstatements/NumberToWords.java,6/4/641e609d3f99f056c6715094b286719b7f52fa53
+`
+0src/controlflowstatements/DigitSumChallenge.java,d/1/d175d96c841d78ef621b6a03fc5630869f21100f
