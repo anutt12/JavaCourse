@@ -1,0 +1,7 @@
+
+z	java:S135*"YReduce the total number of break and continue statements in this loop to use at most one.(ÑÚ™Ÿûÿÿÿÿ8Î½ğÃ0
+8
+java:S3626-"Remove this redundant jump.(ÉŠ©ƒ8Õü¯ğÃ0
+P	java:S125"<This block of commented-out lines of code should be removed.(¸Úù#
+W
+java:S1126B"AReplace this if-then-else statement by a single return statement.(ˆëáó
