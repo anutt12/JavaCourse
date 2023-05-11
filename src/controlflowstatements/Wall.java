@@ -35,7 +35,7 @@ area= 0.0
 
 NOTE: All methods should be defined as public NOT public static.
 
-NOTE: In total, you have to write 5 methods and 2 constructors.a a
+NOTE: In total, you have to write 5 methods and 2 constructors.
 
  */
 
