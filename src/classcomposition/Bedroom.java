@@ -130,7 +130,7 @@ class Bed {
         this.quilt = quilt;
     }
 
-    public void make() {
+    public static void make() {
         System.out.println("Bed -> Making | ");
     }
 
