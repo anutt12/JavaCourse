@@ -1,4 +1,4 @@
-package OperatorsOperandsExpressions;
+package operatorsoperandsexpressions;
 
 public class Operators {
 

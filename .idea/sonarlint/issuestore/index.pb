@@ -119,3 +119,5 @@ M
 src/encapsulation/Player.java,6/b/6bbe4da90802017f79757d8760c6ea59fc34db5f
 U
 %src/encapsulation/EnhancedPlayer.java,2/e/2e539eac042cf480c74578a3b5f2f2e52ffed4a3
+N
+src/encapsulation/Printer.java,1/c/1c5ae0bad5a1a9bb51a870360f378718b7f76c02
