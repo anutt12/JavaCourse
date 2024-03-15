@@ -113,3 +113,9 @@ X
 (src/controlflowstatements/Rectangle.java,4/0/40c82a7cfcb04d52b3cb7488ca53b3fc43ea0ebd
 Q
 !src/classcomposition/Bedroom.java,c/d/cdddb558edd2d68108b060e03168032cbfd3e42a
+M
+src/Encapsulation/Player.java,4/3/43ca352883261703400629c196a0a0c8cef1527e
+M
+src/encapsulation/Player.java,6/b/6bbe4da90802017f79757d8760c6ea59fc34db5f
+U
+%src/encapsulation/EnhancedPlayer.java,2/e/2e539eac042cf480c74578a3b5f2f2e52ffed4a3
