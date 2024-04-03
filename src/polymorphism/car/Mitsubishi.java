@@ -1,22 +1,22 @@
 package polymorphism.car;
 
-public class Mitsubishi extends Car{
+public class Mitsubishi extends Car {
     public Mitsubishi(int cylinders, String name) {
         super(cylinders, name);
     }
 
     @Override
-    public void startEngine() {
-        super.startEngine();
+    public String startEngine() {
+        return super.startEngine();
     }
 
     @Override
-    public void accelerate() {
-        super.accelerate();
+    public String accelerate() {
+        return super.accelerate();
     }
 
     @Override
-    public void brake() {
-        super.brake();
+    public String brake() {
+        return super.brake();
     }
 }

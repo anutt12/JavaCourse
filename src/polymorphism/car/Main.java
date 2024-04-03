@@ -23,17 +23,17 @@ package polymorphism.car;
  * System.out.println(car.startEngine());
  * System.out.println(car.accelerate());
  * System.out.println(car.brake());
- *
+ * <p>
  * Mitsubishi mitsubishi = new Mitsubishi(6, "Outlander VRX 4WD");
  * System.out.println(mitsubishi.startEngine());
  * System.out.println(mitsubishi.accelerate());
  * System.out.println(mitsubishi.brake());
- *
+ * <p>
  * Ford ford = new Ford(6, "Ford Falcon");
  * System.out.println(ford.startEngine());
  * System.out.println(ford.accelerate());
  * System.out.println(ford.brake());
- *
+ * <p>
  * Holden holden = new Holden(6, "Holden Commodore");
  * System.out.println(holden.startEngine());
  * System.out.println(holden.accelerate());
