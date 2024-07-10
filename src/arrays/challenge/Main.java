@@ -1,4 +1,4 @@
-package arrays.Challenge;
+package arrays.challenge;
 
 import java.util.Arrays;
 import java.util.Random;
